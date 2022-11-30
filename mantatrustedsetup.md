@@ -1,4 +1,4 @@
-# Manta Trusted Setup Qurulumu.
+# Manta Trusted Setup Qurulumu - Form 
 ### Komandları ard-arda yazırıq. 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/Manta-Network/manta-rs/main/tools/install.sh | sh
