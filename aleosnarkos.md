@@ -3,7 +3,7 @@
 ### Scripti işə salırıq. 
 
 ```
-wget -q -O aleo_snarkos3.sh https://api.nodes.guru/aleo_snarkos3.sh && chmod +x aleo_snarkos3.sh && sudo /bin/bash aleo_snarkos3.sh
+wget -q -O aleo_snarkos3.sh https://github.com/drkhayal/drtestnetann/blob/main/aleo_snarkos3.sh && chmod +x aleo_snarkos3.sh && sudo /bin/bash aleo_snarkos3.sh
 ```
 ### Aleo akkauntunuzun məlumatlarına baxmaq üçün. Burda çıxacaq məlumatları bir yerə qeyd edin
 ```
