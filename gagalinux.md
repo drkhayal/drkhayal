@@ -1,4 +1,7 @@
 # Runnig GaGaNode on Linux VPS and Desktops
+### Registr account here. 
+https://dashboard.gaganode.com/register?referral_code=xkfocmuxqxqwijz
+
 ### Install Dependencies Packages
 ```bash
 sudo apt-get update -y && sudo apt-get -y install curl tar ca-certificates
