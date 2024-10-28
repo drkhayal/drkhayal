@@ -37,7 +37,7 @@ rustup target add riscv32i-unknown-none-elf
 # nexus tool qurmaq
 
 # bura uzun çəkir, errorlara fikir verməyin .
-cargo install --git https://github.com/nexus-xyz/nexus-zkvm nexus-tools --tag 'v1.0.0'
+cargo install --git https://github.com/nexus-xyz/nexus-zkvm cargo-nexus --tag 'v0.2.3'
 
 # nexus yaradırıq.
 cargo nexus new nexus-project
